@@ -5,6 +5,17 @@ author_profile: true
 permalink: /education_academic/
 ---
 
+Education
+======
+**Since 07/2024 |** Nanjing Hydraulic Research Institute, Center for Eco-Environmental Research
+- **Degree:** Ph.D. Candidate
+- **Advisor:** Prof. Dr. Qiuwen Chen
+- **Field of Study:** Hydrodynamic
+- **Field of Study:** Hydrodynamic
+
+
+
+
 ## 博士在读
 **Nanjing Hydraulic Research Institute** | 水力学及河流动力学
 - 导师：Prof. Dr. Qiuwen Chen
