@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate at the Center for Eco-Environmental Research, Nanjing Hydraulic Research Institute (CEER, NHRI) under the supervision of Prof. Dr. Qiuwen Chen. My thesis has been supported jointly by the China Association for Science and Technology Young Scientific and Technological Talent Cultivation Program (Doctoral Track), Postgraduate Research & Practice Innovation Program of Jiangsu Province, and Postgraduate Thesis Fund of NHRI. Currently, my research is conducted in the Ecohydraulics Research Department. I am dedicated to understanding the hydrothermal variation in large-scale wetland ecosystems, as well as their impacts on carbon cycling and feedbacks to climate change. We are actively pursuing international collaborations to contribute collectively to global carbon budget and climate change mitigation.
 
-Research interests
+Research Interests
 ======
 My research focuses on the global wetland ecohydrodynamic, with a particular emphasis on the temporal and spatial dynamic patterns of hydrothermal variation resulting from seasonal climate changes and extreme hydrological meteorological events, as well as the impact of these external pressures on the carbon cycle of the wetland vegetation-hydrology-soil (sediment) system. To explore these processes, I combine satellite meteorological observations, field measurements, laboratory analyses, ecosystem models, and pedometric methods to understand wetland water-energy changes and carbon stability and storage potential feedback.
 
