@@ -38,15 +38,15 @@
     "layout/json_cv"
 ;
 
-/* 取消 sticky footer，让 footer 只在内容末尾出现 */
-html, body {
-  height: auto !important;
-}
-
-.page__wrapper {
-  min-height: 0 !important;
-}
-
-.page__footer {
-  position: static !important;
-}
+# /* 取消 sticky footer，让 footer 只在内容末尾出现 */
+# html, body {
+#   height: auto !important;
+# }
+# 
+# .page__wrapper {
+#   min-height: 0 !important;
+# }
+# 
+# .page__footer {
+#   position: static !important;
+# }
