@@ -29,6 +29,7 @@ author:
   bio              : "Ph.D. Candidate in Hydrodynamics \n zsun@nhri.cn"
   location         : "Nanjing, China"
   employer         : "Nanjing Hydraulic Research Institute"
+  employer_uri     : "https://zhengsun0826.github.io"
   employer_logo    : "NHRIorigin.jpg"
   # uri              : ""
   email            : "zsun[at]nhri.cn" 
