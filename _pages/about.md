@@ -21,9 +21,14 @@ My research may involve the intersection of the following disciplines:
 - **Geostatistics**
 - **......**
 
-Education
+News
 ======
-
+- **Sep. 2026:** Zheng Sun has invited as a peer reviewer for _Frontiers in Plant Science_!
+- **Jul. 2026:** Our paper entitled "A review on estimation and regulation of sensitive ecological flow processes" was accepted by _Journal of Hydraulic Engineering_!
+- **Jul. 2026:** Zheng Sun has received funding from the Postgraduate Research & Practice Innovation Program of Jiangsu Province!
+- **Mar. 2026:** Zheng Sun has received funding from the Postgraduate Thesis Fund of Nanjing Hydraulic Research Institute!
+- **Dec. 2025:** Zheng Sun has received funding from the CAST Young Scientific and Technological Talent Cultivation Program (Doctoral Track)!
+- **Sep. 2025:** Our paper entitled "Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earth's Third Pole" was accepted by _The Innovation Geoscience_!
 
 
 
