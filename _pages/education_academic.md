@@ -2,7 +2,7 @@
 layout: single
 title: "Academic & Professional Career"
 author_profile: true
-permalink: /academic_education/
+permalink: /education_academic/
 ---
 
 ## 博士在读
