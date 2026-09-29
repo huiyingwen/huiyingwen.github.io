@@ -14,11 +14,11 @@ Research Interests
 My research focuses on the global wetland ecohydrodynamic, with a particular emphasis on the temporal and spatial dynamic patterns of hydrothermal variation resulting from seasonal climate changes and extreme hydrological meteorological events, as well as the impact of these external pressures on the carbon cycle of the wetland vegetation-hydrology-soil (sediment) system. To explore these processes, I combine satellite meteorological observations, field measurements, laboratory analyses, ecosystem models, and pedometric methods to understand wetland water-energy changes and carbon stability and storage potential feedback.
 
 My research may involve the intersection of the following disciplines:
-- **Global Change Ecology:** climate change, soil carbon cycle, extreme event, drought, heat wave, seasonal
-- **Restoration Ecology:** protected area planning, biodiversity, paired analysis
-- **Ecohydrology:** hydrological conditions, water level, inundation depth, inundation frequency
-- **Pedometrics:** soil geography, digital soil mapping, soil spectroscopy, global patterns
-- **Geostatistics:** spatial analysis, remote sensing inversion, spatial computing development
+- **Global Change Ecology |** climate change, soil carbon cycle, extreme event, drought, heat wave, seasonal
+- **Restoration Ecology |** protected area planning, biodiversity, paired analysis
+- **Ecohydrology |** hydrological conditions, water level, inundation depth, inundation frequency
+- **Pedometrics |** soil geography, digital soil mapping, soil spectroscopy, global patterns
+- **Geostatistics |** spatial analysis, remote sensing inversion, spatial computing development
 - **......**
 
 News
