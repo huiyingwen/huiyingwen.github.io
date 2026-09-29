@@ -7,26 +7,25 @@ permalink: /education_academic/
 
 Education
 ======
-**Since 07/2024 |** Nanjing Hydraulic Research Institute, Center for Eco-Environmental Research
+**Since 09/2024 |** Center for Eco-Environmental Research, **Nanjing Hydraulic Research Institute**
 - **Degree:** Ph.D. Candidate
 - **Advisor:** Prof. Dr. Qiuwen Chen
-- **Field of Study:** Hydrodynamic
-- **Field of Study:** Hydrodynamic
+- **Major:** Hydrodynamics
+- **Field of Study:** Wetland ecohydrodynamics
 
+**10/2020 – 07/2023 |** **Institute of Soil Science, Chinese Academy of Sciences**
+- **Degree:** Joint M.S.
+- **Advisor:** Prof. Dr. Feng Liu, Dr. Huayong Wu
+- **Major:** Pedometrics
+- **Field of Study:** Digital soil mapping, soil spectroscopy
 
+**09/2020 – 07/2020 |** Collage of Forestry, **Hunan Agriculture University**
+- **Degree:** M.S.
+- **Advisor:** Prof. Dr. Decai Wang
+- **Major:** Forest Ecology
+- **Field of Study:** Soil resource assessment, forest carbon sink
 
-
-## 博士在读
-**Nanjing Hydraulic Research Institute** | 水力学及河流动力学
-- 导师：Prof. Dr. Qiuwen Chen
-- 研究方向：湿地碳循环动力学、地理空间建模
-- 202X.09 – 至今
-
-## 硕士
-**XX大学** | XX专业
-- 20XX.09 – 20XX.06
-- 论文题目：……
-
-## 学士
-**XX大学** | XX专业
-- 20XX.09 – 20XX.06
+**09/2016 – 07/2020 |** Collage of Landscape Architecture, **Hunan Agriculture University**
+- **Degree:** B.S.
+- **Advisor:** Prof. Hong Wei
+- **Major:** Landscape Planning
