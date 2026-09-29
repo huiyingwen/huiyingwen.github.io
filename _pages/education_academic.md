@@ -29,3 +29,8 @@ Education
 - **Degree:** B.S.
 - **Advisor:** Prof. Hong Wei
 - **Major:** Landscape Planning
+
+Academic
+======
+Research Position
+------
