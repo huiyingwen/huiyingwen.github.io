@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Education"
+title: "Academic & Professional Career"
 author_profile: true
-permalink: /education/
+permalink: /academic_education/
 ---
 
 ## 博士在读
