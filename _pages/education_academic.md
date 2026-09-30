@@ -30,10 +30,8 @@ Education
 - **Advisor:** Prof. Hong Wei
 - **Major:** Landscape Planning
 
-Academic
-======
 Research Position
-------
+======
 **Since 02/2025 |** Department Ecohydraulic Research, Center for Eco-Environmental Research, **Nanjing Hydraulic Research Institute**
 - Doctoral Research Assistant
 
