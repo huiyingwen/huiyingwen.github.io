@@ -5,8 +5,8 @@ author_profile: true
 permalink: /education_academic/
 ---
 
-Education
-======
+## Education
+
 **Since 09/2024 |** Center for Eco-Environmental Research, **Nanjing Hydraulic Research Institute**
 - **Degree:** Ph.D. Candidate
 - **Advisor:** Prof. Dr. Qiuwen Chen
@@ -19,19 +19,19 @@ Education
 - **Major:** Pedometrics
 - **Field of Study:** Digital soil mapping, soil spectroscopy
 
-**09/2020 – 07/2020 |** Collage of Forestry, **Hunan Agriculture University**
+**09/2020 – 07/2020 |** Collage of Forestry, **Henan Agriculture University**
 - **Degree:** M.S.
 - **Advisor:** Prof. Dr. Decai Wang
 - **Major:** Forest Ecology
 - **Field of Study:** Soil resource assessment, forest carbon sink
 
-**09/2016 – 07/2020 |** Collage of Landscape Architecture, **Hunan Agriculture University**
+**09/2016 – 07/2020 |** Collage of Landscape Architecture, **Henan Agriculture University**
 - **Degree:** B.S.
-- **Advisor:** Prof. Hong Wei
 - **Major:** Landscape Planning
 
-Research Position
-======
+
+## Research Position
+
 **Since 02/2025 |** Department Ecohydraulic Research, Center for Eco-Environmental Research, **Nanjing Hydraulic Research Institute**
 - Doctoral Research Assistant
 
@@ -43,3 +43,9 @@ Research Position
 
 **10/2020 – 07/2023 |** Soil Resources and Information Research Department, **Institute of Soil Science, Chinese Academy of Sciences**
 - Joint Research Assistant
+
+
+## Awards / Distinctions / Fellowships
+
+**2026** — The First Prize for Scientific and Technological Progress of Nanjing Hydraulic Research Institute
+**2025** — CAST Young Scientific and Technological Talent Cultivation Program (Doctoral Track)
