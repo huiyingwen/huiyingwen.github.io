@@ -65,3 +65,14 @@ My research may involve the intersection of the following disciplines:
     Developing a high-resolution black soil (BS) distribution map in China, serving as an important tool for assessing BS resources.<br>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2.5em;">
+  <div style="flex: 0 0 220px; margin-right: 25px;">
+    <img src="/images/HPpaper4-figure.jpg" alt="Paper 4 figure" style="width: 100%; border: 1px solid #ddd;">
+  </div>
+  <div style="flex: 1;">
+    <b>Improving 3D Digital Soil Mapping Based on Spatialized Lab Soil Spectral Information</b><br>
+    <b>Sun, Z.</b>, Liu, F., Wang, D, et al. <i>Remote Sensing</i>, 2024. <a href="https://doi.org/10.3390/rs15215228">DOI</a><br><br>
+    Developing a technical framework to enhance the accuracy of 3D soil physicochemical properties mapping by using spatialized lab soil spectral maps as covariates.<br>
+  </div>
+</div>
