@@ -9,8 +9,8 @@ redirect_from:
 
 I am a Ph.D. candidate at the Center for Eco-Environmental Research, Nanjing Hydraulic Research Institute (CEER, NHRI) under the supervision of Prof. Dr. Qiuwen Chen. Currently, my research is conducted in the Ecohydraulics Research Department. I am dedicated to understanding the hydrothermal variation in large-scale wetland ecosystems, as well as their impacts on carbon cycling and feedbacks to climate change. We are actively pursuing international collaborations to contribute collectively to global carbon budget and climate change mitigation.
 
-Research Interests
-======
+## Research Interests
+
 My research focuses on the global wetland ecohydrodynamic, with a particular emphasis on the temporal and spatial dynamic patterns of hydrothermal variation resulting from seasonal climate changes and extreme hydrological meteorological events, as well as the impact of these external pressures on the carbon cycle of the wetland vegetation-hydrology-soil (sediment) system. To explore these processes, I combine satellite meteorological observations, field measurements, laboratory analyses, ecosystem models, and pedometric methods to understand wetland water-energy changes and carbon stability and storage potential feedback.
 
 My research may involve the intersection of the following disciplines:
@@ -21,17 +21,12 @@ My research may involve the intersection of the following disciplines:
 - **Geostatistics:** spatial analysis, remote sensing inversion, spatial computing development
 - **...**
 
-News
-======
-- **_09/2026_:** Zheng Sun has invited as a peer reviewer for _Frontiers in Plant Science_!
-- **_07/2026_:** Our paper entitled "A review on estimation and regulation of sensitive ecological flow processes" was accepted by _Journal of Hydraulic Engineering_!
-- **_07/2026_:** Zheng Sun has received funding from the Postgraduate Research & Practice Innovation Program of Jiangsu Province!
-- **_07/2026_:** Zheng Sun has invited as a peer reviewer for _Water Resources and Hydropower Engineering_!
-- **_03/2026_:** Zheng Sun has received funding from the Postgraduate Thesis Fund of Nanjing Hydraulic Research Institute!
-- **_03/2026_:** Our research have received the First Prize for Scientific and Technological Progress of Nanjing Hydraulic Research Institute!
-- **_12/2025_:** Zheng Sun has received funding from the CAST Young Scientific and Technological Talent Cultivation Program (Doctoral Track)!
-- **_09/2025_:** Our paper entitled "Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earth's Third Pole" was accepted by _The Innovation Geoscience_!
-- **_02/2025_:** Zheng Sun has invited as a peer reviewer for _Environmental Monitoring and Assessment_!
+## News
 
-Selected publication
-======
+- **_09/2026_** — Zheng Sun has invited as a peer reviewer for _Frontiers in Plant Science_!
+- **_07/2026_** — Our paper entitled "A review on estimation and regulation of sensitive ecological flow processes" was accepted by _Journal of Hydraulic Engineering_!
+- **_07/2026_** — Zheng Sun has received funding from the Postgraduate Research & Practice Innovation Program of Jiangsu Province!
+- **...**
+
+## Selected publication
+
