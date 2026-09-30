@@ -48,5 +48,4 @@ permalink: /education_academic/
 ## Awards / Distinctions / Fellowships
 
 - **2026** — The First Prize for Scientific and Technological Progress of Nanjing Hydraulic Research Institute
-
 - **2025** — CAST Young Scientific and Technological Talent Cultivation Program (Doctoral Track)
