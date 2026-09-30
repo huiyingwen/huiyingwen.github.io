@@ -1,5 +1,5 @@
 ---
-title: "Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earth's Third Pole"
+title: "Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earths Third Pole"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-sun-wetland-carbon
