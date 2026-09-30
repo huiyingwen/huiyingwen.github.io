@@ -35,7 +35,7 @@ My research may involve the intersection of the following disciplines:
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2.5em;">
   <div style="flex: 0 0 220px; margin-right: 25px;">
-    <img src="/images/paper1-figure.jpg" alt="Paper 1 figure" style="width: 100%; border: 1px solid #ddd;">
+    <img src="/images/HPpaper1-figure.jpg" alt="Paper 1 figure" style="width: 100%; border: 1px solid #ddd;">
   </div>
   <div style="flex: 1;">
     <b>Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earth's Third Pole</b><br>
