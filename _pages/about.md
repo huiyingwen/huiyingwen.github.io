@@ -39,8 +39,8 @@ My research may involve the intersection of the following disciplines:
   </div>
   <div style="flex: 1;">
     <b>Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earth's Third Pole</b><br>
-    <b>Sun, Z.</b>, Chen, C., Chen, Q., et al. <i>The Innovation Geoscience</i>, 2026.<br><br>
+    <b>Sun, Z.</b>, Chen, C., Chen, Q., et al. <i>The Innovation Geoscience</i>, 2026.<br><br> <a href="https://doi.org/10.59717/j.xinn-geo.2026.100181">DOI</a>
     This study quantifies how vegetation water use efficiency modulates soil carbon storage across the Qinghai-Tibet Plateau, providing new insights into carbon-climate feedbacks in alpine wetlands.<br>
-    <a href="https://doi.org/10.59717/j.xinn-geo.2026.100181">DOI</a>
+    
   </div>
 </div>
