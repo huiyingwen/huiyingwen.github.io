@@ -60,11 +60,4 @@ permalink: /education_academic/
 ## Journal Services
 
 - **Since 2025** — Editorial assistant for _Research_
-- **Peer reviewer** — Geoderma
-                      Catena
-                      Journal of Geophysical Research-Biogeosciences
-                      Land Degradation & Development
-                      Frontiers in Plant Science
-                      Environmental Monitoring and Assessment
-                      Water Resources and Hydropower Engineering (in Chinese)
-                      Chinese Journal of Soil Science (in Chinese)
+- **Peer reviewer** — _Geoderma_, _Catena_, _Journal of Geophysical Research-Biogeosciences_, _Land Degradation & Development_, _Frontiers in Plant Science_, _Environmental Monitoring and Assessment_, _Water Resources and Hydropower Engineering_ (in Chinese), _Chinese Journal of Soil Science_ (in Chinese)
