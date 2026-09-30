@@ -61,3 +61,12 @@ permalink: /education_academic/
 
 - **Since 2025** — Editorial assistant for _Research_
 - **Peer reviewer** — _Geoderma_, _Catena_, _Journal of Geophysical Research-Biogeosciences_, _Land Degradation & Development_, _Frontiers in Plant Science_, _Environmental Monitoring and Assessment_, _Water Resources and Hydropower Engineering_ (in Chinese), _Chinese Journal of Soil Science_ (in Chinese)
+
+
+## Memberships
+
+- **Since 2025** — Student member, Chinese Society for Environmental Sciences (S290000278A)
+- **Since 2025** — Student member, Chinese Society of Natural Resources (S300005247A)
+- **Since 2025** — Student member, Chinese Hydraulic Engineering Society (E081056595A)
+- **Since 2024** — Student member, Ecological Society of Chinese (S280010545S)
+- **Since 2022** — Student member, Soil Science Society of Chinese (C031602678A)
