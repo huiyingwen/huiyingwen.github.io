@@ -51,6 +51,17 @@ My research may involve the intersection of the following disciplines:
   <div style="flex: 1;">
     <b>Spatial distributions, driving factors, and threshold effects of soil organic carbon stocks in the Tibetan Plateau</b><br>
     <b>Sun, Z.</b>, Liu, F., Yang, F., et al. <i>Soil & Tillage Research</i>, 2025. <a href="https://doi.org/10.1016/j.still.2025.106457">DOI</a><br><br>
-    Mapping multi-layer soil organic carbon stocks on the Tibetan Plateau at 90 m resolution and revealing environmental controls.<br>
+    Mapping the multi-layer soil organic carbon stocks on the Tibetan Plateau at 90 m resolution and revealing environmental controls.<br>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 2.5em;">
+  <div style="flex: 0 0 220px; margin-right: 25px;">
+    <img src="/images/HPpaper3-figure.jpg" alt="Paper 3 figure" style="width: 100%; border: 1px solid #ddd;">
+  </div>
+  <div style="flex: 1;">
+    <b>Developing a national black soil map of China through machine learning classification</b><br>
+    <b>Sun, Z.</b>, Liu, F., Wu, H, et al. <i>CATENA</i>, 2024. <a href="https://doi.org/10.1016/j.catena.2024.107993">DOI</a><br><br>
+    Developing a high-resolution black soil (BS) distribution map in China, serving as an important tool for assessing BS resources.<br>
   </div>
 </div>
