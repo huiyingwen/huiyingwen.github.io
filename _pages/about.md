@@ -28,5 +28,5 @@ My research may involve the intersection of the following disciplines:
 - **_07/2026_** — Zheng Sun has received funding from the Postgraduate Research & Practice Innovation Program of Jiangsu Province!
 - **...**
 
-## Selected publication
+## Selected Publications
 
