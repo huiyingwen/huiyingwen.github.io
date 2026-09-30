@@ -1,11 +1,11 @@
 ---
-title: "Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earths Third Pole"
+title: "Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earth's Third Pole"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-sun-wetland-carbon
-excerpt: 'This paper is about... 一句话概括你的贡献，会显示在论文列表摘要位置。'
-date: 2025-09-26
-venue: ''The Innovation Geoscience'
-paperurl: 'https://doi.org/10.59717/j.xinn-geo.2026.100181'
-citation: 'Sun, Z., Chen, Q., et al. (2026). Your Paper Title Here. <i>Journal of Hydrology</i>.'
+permalink: /publication/2025-sun-soil-carbon
+excerpt: "This study reveals that vegetation water use efficiency enhances soil carbon sequestration on the Qinghai-Tibet Plateau."
+date: 2025-09-01
+venue: 'The Innovation Geoscience'
+paperurl: 'https://doi.org/your-doi-here'
+citation: "Sun, Z., Chen, Q., et al. (2025). Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earth's Third Pole. <i>The Innovation Geoscience</i>."
 ---
