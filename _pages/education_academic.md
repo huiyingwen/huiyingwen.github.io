@@ -49,3 +49,22 @@ permalink: /education_academic/
 
 - **2026** — The First Prize for Scientific and Technological Progress of Nanjing Hydraulic Research Institute
 - **2025** — CAST Young Scientific and Technological Talent Cultivation Program (Doctoral Track)
+
+
+## Fundings
+
+- **Since 2026** — Postgraduate Research & Practice Innovation Program of Jiangsu Province (26CXJH7520), CNY60,000
+- **Since 2025** — Postgraduate Thesis Fund of Nanjing Hydraulic Research Institute (Yy626003), CNY60,000
+
+
+## Journal Services
+
+- **Since 2025** — Editorial assistant for _Research_
+- **Peer reviewer** — Geoderma
+                      Catena
+                      Journal of Geophysical Research-Biogeosciences
+                      Land Degradation & Development
+                      Frontiers in Plant Science
+                      Environmental Monitoring and Assessment
+                      Water Resources and Hydropower Engineering (in Chinese)
+                      Chinese Journal of Soil Science (in Chinese)
