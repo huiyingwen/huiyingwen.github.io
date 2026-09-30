@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the Center for Eco-Environmental Research, Nanjing Hydraulic Research Institute (CEER, NHRI) under the supervision of Prof. Dr. Qiuwen Chen. Currently, my research is conducted in the Ecohydraulics Research Department. I am dedicated to understanding the hydrothermal variation in large-scale wetland ecosystems, as well as their impacts on carbon cycling and feedbacks to climate change. We are actively pursuing international collaborations to contribute collectively to global carbon budget and climate change mitigation.
+I am a **_Ph.D. candidate_** at the Center for Eco-Environmental Research, **_Nanjing Hydraulic Research Institute_** (CEER, NHRI) under the supervision of Prof. Dr. Qiuwen Chen. Currently, my research is conducted in the Ecohydraulics Research Department. I am dedicated to understanding the hydrothermal variation in large-scale wetland ecosystems, as well as their impacts on carbon cycling and feedbacks to climate change. We are actively pursuing international collaborations to contribute collectively to global carbon budget and climate change mitigation.
 
 
 ## Research Interests
 
-My research focuses on the global wetland ecohydrodynamic, with a particular emphasis on the temporal and spatial dynamic patterns of hydrothermal variation resulting from seasonal climate changes and extreme hydrological meteorological events, as well as the impact of these external pressures on the carbon cycle of the wetland vegetation-hydrology-soil (sediment) system. To explore these processes, I combine satellite meteorological observations, field measurements, laboratory analyses, ecosystem models, and pedometric methods to understand wetland water-energy changes and carbon stability and storage potential feedback.
+My research focuses on the **_Global Wetland Ecohydrodynamics_**, with a particular emphasis on the temporal and spatial dynamic patterns of hydrothermal variation resulting from seasonal climate changes and extreme hydrological meteorological events, as well as the impact of these external pressures on the carbon cycle of the wetland vegetation-hydrology-soil (sediment) system. To explore these processes, I combine satellite meteorological observations, field measurements, laboratory analyses, ecosystem models, and pedometric methods to understand wetland water-energy changes and carbon stability and storage potential feedback.
 
 My research may involve the intersection of the following disciplines:
 - **Global Change Ecology:** climate change, soil carbon cycle, extreme event, drought, heat wave, seasonal
