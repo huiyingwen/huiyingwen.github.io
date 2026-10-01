@@ -20,7 +20,7 @@ permalink: /education_academic/
 - **Field of Study:** Digital soil mapping, soil spectroscopy
 
 **09/2020 – 07/2023 |** College of Forestry, **Henan Agriculture University**
-- **Degree:** M.S.
+- **Degree:** M.S. (jointly trained with the Institute of Soil Science, CAS)
 - **Advisor:** Prof. Dr. Decai Wang
 - **Major:** Forest Ecology
 - **Field of Study:** Soil resource assessment, forest carbon sink
@@ -48,25 +48,35 @@ permalink: /education_academic/
 ## Awards / Distinctions / Fellowships
 
 - **2026** — The First Prize for Scientific and Technological Progress of Nanjing Hydraulic Research Institute
+- **2026** — Outstanding Students of the Ecohydraulics Research Department, Center for Eco-Environmental Research, Nanjing Hydraulic Research Institute
 - **2025** — CAST Young Scientific and Technological Talent Cultivation Program (Doctoral Track)
+- **2025** — Outstanding Students of the Center for Eco-Environmental Research, Nanjing Hydraulic Research Institute
 
 
 ## Fundings
 
-- **Since 2026** — Postgraduate Research & Practice Innovation Program of Jiangsu Province (26CXJH7520), CNY60,000
-- **Since 2025** — Postgraduate Thesis Fund of Nanjing Hydraulic Research Institute (Yy626003), CNY60,000
+- **2026** — Postgraduate Research & Practice Innovation Program of Jiangsu Province (26CXJH7520), CNY60,000
+- **2025** — Postgraduate Thesis Fund of Nanjing Hydraulic Research Institute (Yy626003), CNY60,000
 
 
 ## Journal Services
 
 - **Since 2025** — Editorial assistant for _Research_
-- **Peer reviewer** — _Geoderma_, _Catena_, _Journal of Geophysical Research-Biogeosciences_, _Land Degradation & Development_, _Frontiers in Plant Science_, _Environmental Monitoring and Assessment_, _Water Resources and Hydropower Engineering_ (in Chinese), _Chinese Journal of Soil Science_ (in Chinese)
+- **Peer reviewer for:**
+  - *Geoderma*
+  - *Catena*
+  - *Journal of Geophysical Research-Biogeosciences*
+  - *Land Degradation & Development*
+  - *Frontiers in Plant Science*
+  - *Environmental Monitoring and Assessment*
+  - *Water Resources and Hydropower Engineering* (in Chinese)
+  - *Chinese Journal of Soil Science* (in Chinese)
 
 
 ## Memberships
 
-- **Since 2025** — Student member, Chinese Society for Environmental Sciences (S290000278A)
-- **Since 2025** — Student member, Chinese Society of Natural Resources (S300005247A)
-- **Since 2025** — Student member, Chinese Hydraulic Engineering Society (E081056595A)
-- **Since 2024** — Student member, Ecological Society of Chinese (S280010545S)
-- **Since 2022** — Student member, Soil Science Society of Chinese (C031602678A)
+- **2025** — Student member, Chinese Society for Environmental Sciences
+- **2025** — Student member, Chinese Society of Natural Resources
+- **2025** — Student member, Chinese Hydraulic Engineering Society
+- **2024** — Student member, Ecological Society of Chinese
+- **2022** — Student member, Soil Science Society of Chinese
