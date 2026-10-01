@@ -5,8 +5,8 @@ author_profile: true
 permalink: /cv/
 ---
 
-<embed src="/files/CV.pdf" type="application/pdf" width="100%" height="1000px">
+<embed src="/files/cv.pdf" type="application/pdf" width="100%" height="1000px">
 
 <p style="text-align: center; margin-top: 1em;">
-  <a href="/files/CV.pdf" download>Download PDF</a>
+  <a href="/files/cv.pdf" download>Download PDF</a>
 </p>
