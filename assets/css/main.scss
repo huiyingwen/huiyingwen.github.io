@@ -38,9 +38,23 @@
     "layout/json_cv"
 ;
 
-.author__content .author__name,
-.author__content p,
-.author__content a {
+/* 侧边栏文字自动换行 */
+.sidebar__about .author__content p,
+.sidebar__about .author__content a,
+.sidebar__about .author__content span,
+.author__urls-wrapper li a,
+.author__urls-wrapper li {
   white-space: normal !important;
-  word-wrap: break-word;
+  word-break: break-word !important;
+  overflow: visible !important;
 }
+
+/* 加宽主内容区，减少右侧留白 */
+.page,
+.page__inner,
+.archive,
+.wrapper {
+  max-width: 1400px !important;
+  width: 100% !important;
+}
+
