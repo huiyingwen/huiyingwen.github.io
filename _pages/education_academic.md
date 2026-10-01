@@ -19,7 +19,7 @@ permalink: /education_academic/
 - **Major:** Pedometrics
 - **Field of Study:** Digital soil mapping, soil spectroscopy
 
-**09/2020 – 07/2020 |** Collage of Forestry, **Henan Agriculture University**
+**09/2020 – 07/2023 |** College of Forestry, **Henan Agriculture University**
 - **Degree:** M.S.
 - **Advisor:** Prof. Dr. Decai Wang
 - **Major:** Forest Ecology
