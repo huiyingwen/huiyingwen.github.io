@@ -11,6 +11,7 @@ permalink: /news/
 - **07/2026** — Our paper entitled "A review on estimation and regulation of sensitive ecological flow processes" was accepted by _Journal of Hydraulic Engineering_!
 - **07/2026** — Zheng Sun has received funding from the Postgraduate Research & Practice Innovation Program of Jiangsu Province!
 - **07/2026** — Zheng Sun has been invited as a peer reviewer for _Water Resources and Hydropower Engineering_!
+- **04/2026** — Our paper entitled "Spatial variation and driving relationship analysis of soil total nitrogen in plateau lake watershed: A case of Qilu Lake Basin in Yunnan" was accepted by _Geographical Science_!
 - **03/2026** — Zheng Sun has received funding from the Postgraduate Thesis Fund of Nanjing Hydraulic Research Institute!
 - **03/2026** — Our research have received the First Prize for Scientific and Technological Progress of Nanjing Hydraulic Research Institute!
 - **02/2026** — Our paper entitled "An innovative mapping framework for soil erodibility integrating spatial association dimensions and machine learning" was accepted by _Soil & Tillage Research_!
@@ -33,6 +34,8 @@ permalink: /news/
 
 ## 2024
 
+- **08/2024** — Our paper entitled "Optimal Mapping of Soil Erodibility in a Plateau Lake Watershed: Empirical Models Empowered by Machine Learning" was accepted by _Remote Sensing_!
+- **06/2024** — Our paper entitled "Identification of Mollic Epipedon Using Random Forest and Digital Image Processing Methods" was accepted by _Chinese Journal of Soil Science_!
 - **03/2024** — Our paper entitled "Developing a national black soil map of China through machine learning classification" was accepted by _Catena_!
 
 
@@ -46,6 +49,3 @@ permalink: /news/
 
 - **10/2022** — Our paper entitled "Spatial-temporal evolution characteristics and trend prediction of electroplating sites in the Beijing-Tianjin-Hebei region over the past 30 years" was accepted by _Ecology and Environmental Sciences_!
 - **08/2022** — Our paper entitled "Scale Effects of Soil Fertility Evaluation on Tobacco Fields in Yunnan-Guizhou Plateau, Southwest China" was accepted by _Chinese Journal of Soil Science_!
-
-
-- **10/2025** — Our paper entitled "Magnitude and causes of three decades of subtropical soil acidification after land use change" was accepted by _Land Degradation & Development_!
