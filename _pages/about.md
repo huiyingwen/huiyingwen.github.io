@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Global Wetland Ecohydrodynamics and Carbon Cycle"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
