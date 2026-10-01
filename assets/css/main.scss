@@ -42,19 +42,12 @@
 .sidebar__about .author__content p,
 .sidebar__about .author__content a,
 .sidebar__about .author__content span,
-.author__urls-wrapper li a,
-.author__urls-wrapper li {
+.author__urls-wrapper li a {
   white-space: normal !important;
   word-break: break-word !important;
-  overflow: visible !important;
 }
 
-/* 加宽主内容区，减少右侧留白 */
-.page,
-.page__inner,
-.archive,
-.wrapper {
+/* 加宽主内容区（不破坏布局） */
+.page__inner {
   max-width: 1400px !important;
-  width: 100% !important;
 }
-
