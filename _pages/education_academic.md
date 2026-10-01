@@ -41,6 +41,12 @@ permalink: /education_academic/
 **10/2020 – 07/2023 |** Soil Resources and Information Research Department, **Institute of Soil Science, Chinese Academy of Sciences**, Joint Research Assistant
 
 
+## Teaching
+
+**09/2023 – 02/2024 |** School of Resources and Environmental Sciences, **Wuhan University**
+- Soil- and Bio-geography; Soil Resource Investigation and Evaluation (to undergraduate students)
+
+
 ## Awards / Distinctions / Fellowships
 
 - **2026** — The First Prize for Scientific and Technological Progress of Nanjing Hydraulic Research Institute
