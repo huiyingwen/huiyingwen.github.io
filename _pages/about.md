@@ -10,7 +10,7 @@ redirect_from:
 **Global Wetland Ecohydrodynamics and Carbon Cycle**
 
 *Ph.D. Candidate in Hydrodynamics, Nanjing Hydraulic Research Institute*  
-*Wetland Carbon Cycle · Ecohydrology · Global Change Ecology*
+*Wetland Carbon Cycle · Ecohydraulic · Global Change Ecology*
 
 I am a **_Ph.D. candidate_** at the Center for Eco-Environmental Research, **_Nanjing Hydraulic Research Institute_** (CEER, NHRI) under the supervision of Prof. Dr. Qiuwen Chen. Currently, my research is conducted in the Ecohydraulics Research Department. I am dedicated to understanding the hydrothermal variation in large-scale wetland ecosystems, as well as their impacts on carbon cycling and feedbacks to climate change. We are actively pursuing international collaborations to contribute collectively to global carbon budget and climate change mitigation.
 
