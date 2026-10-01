@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Academic & Professional Career"
+title: "Education & Career"
 author_profile: true
 permalink: /education_academic/
 ---
