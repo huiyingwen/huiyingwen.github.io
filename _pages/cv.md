@@ -5,8 +5,4 @@ author_profile: true
 permalink: /cv/
 ---
 
-<embed src="/files/cv.pdf" type="application/pdf" width="100%" height="1000px">
-
-<p style="text-align: center; margin-top: 1em;">
-  <a href="/files/cv.pdf" download>Download PDF</a>
-</p>
+<embed src="/files/zheng_CV_en_202609.pdf" type="application/pdf" width="100%" height="1000px">
