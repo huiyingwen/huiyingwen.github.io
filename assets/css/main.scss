@@ -38,16 +38,17 @@
     "layout/json_cv"
 ;
 
-/* 侧边栏文字自动换行 */
-.sidebar__about .author__content p,
-.sidebar__about .author__content a,
-.sidebar__about .author__content span,
-.author__urls-wrapper li a {
+.author__urls.social-icons li a,
+.author__urls.social-icons li,
+.author__urls.social-icons {
   white-space: normal !important;
   word-break: break-word !important;
+  overflow: visible !important;
+  max-width: 100% !important;
 }
 
-/* 加宽主内容区（不破坏布局） */
-.page__inner {
-  max-width: 1400px !important;
+.author__urls.social-icons li a {
+  display: block !important;
+  line-height: 1.4 !important;
 }
+
