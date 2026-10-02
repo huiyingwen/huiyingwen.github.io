@@ -11,7 +11,7 @@ permalink: /education_academic/
 - **Degree:** Ph.D.
 - **Advisor:** Prof. Dr. Gan-Lin Zhang
 - **Major:** Soil Science
-- **Field of Study:** Soil Geography
+- **Field of Study:** Soil Carbon Cycle
 
 **09/2019 – 07/2022 |** **Institute of Soil Science, Chinese Academy of Sciences**
 - **Degree:** M.S.
