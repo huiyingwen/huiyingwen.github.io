@@ -10,24 +10,18 @@ permalink: /education_academic/
 **09/2022 – 07/2026 |** **Institute of Soil Science, Chinese Academy of Sciences**
 - **Degree:** Ph.D.
 - **Advisor:** Prof. Dr. Gan-Lin Zhang
-- **Major:** Hydrodynamics
-- **Field of Study:** Wetland ecohydrodynamics
+- **Major:** Soil Science
+- **Field of Study:** Soil Geography
 
-**10/2020 – 07/2023 |** **Institute of Soil Science, Chinese Academy of Sciences**
-- **Degree:** Joint M.S.
-- **Advisor:** Prof. Dr. Feng Liu, Dr. Huayong Wu
-- **Major:** Pedometrics
-- **Field of Study:** Digital soil mapping, soil spectroscopy
+**09/2019 – 07/2022 |** **Institute of Soil Science, Chinese Academy of Sciences**
+- **Degree:** M.S.
+- **Advisor:** Prof. Dr. Gan-Lin Zhang
+- **Major:** Soil Science
+- **Field of Study:** Soil Geography
 
-**09/2020 – 07/2023 |** College of Forestry, **Henan Agriculture University**
-- **Degree:** M.S. (jointly trained with the Institute of Soil Science, CAS)
-- **Advisor:** Prof. Dr. Decai Wang
-- **Major:** Forest Ecology
-- **Field of Study:** Soil resource assessment, forest carbon sink
-
-**09/2016 – 07/2020 |** Collage of Landscape Architecture, **Henan Agriculture University**
+**09/2015 – 06/2019 |** College of Resources and Environemnt, **Huazhong Agricultural University**
 - **Degree:** B.S.
-- **Major:** Landscape Planning
+- **Major:** Agricultural Resources and Environemnt
 
 
 ## Research Position
