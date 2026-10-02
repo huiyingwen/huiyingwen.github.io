@@ -26,13 +26,11 @@ permalink: /education_academic/
 
 ## Research Position
 
-**Since 02/2025 |** Department Ecohydraulic Research, Center for Eco-Environmental Research, **Nanjing Hydraulic Research Institute**, Doctoral Research Assistant
+**Since 10/2026 |** Soil Resources and Information Research Department, **Institute of Soil Science, Chinese Academy of Sciences**, Postdoctoral fellow
 
-**09/2024 – 02/2025 |** Department Water Environmental Informatics, Center for Eco-Environmental Research, **Nanjing Hydraulic Research Institute**, Doctoral Research Assistant
+**09/2022 – 07/2026 |** Soil Resources and Information Research Department, **Institute of Soil Science, Chinese Academy of Sciences**, Doctoral Research Assistant
 
-**08/2023 – 07/2024 |** Department of Earth System Science, School of Resources and Environmental Sciences, **Wuhan University**, Research Assistant
-
-**10/2020 – 07/2023 |** Soil Resources and Information Research Department, **Institute of Soil Science, Chinese Academy of Sciences**, Joint Research Assistant
+**09/2019 – 07/2022 |** Soil Resources and Information Research Department, **Institute of Soil Science, Chinese Academy of Sciences**, Graduate Research Assistant
 
 
 ## Teaching
