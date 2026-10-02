@@ -41,30 +41,6 @@ permalink: /education_academic/
 - **2025** — Outstanding Students of the Center for Eco-Environmental Research, Nanjing Hydraulic Research Institute
 
 
-## Fundings
-
-- **2026** — Postgraduate Research & Practice Innovation Program of Jiangsu Province (26CXJH7520), CNY60,000
-- **2025** — Postgraduate Thesis Fund of Nanjing Hydraulic Research Institute (Yy626003), CNY60,000
-
-
-## Journal Services
-
-- **Since 2025** — Editorial assistant for _Research_
-- **Peer reviewer for:**
-  - *Geoderma*
-  - *Catena*
-  - *Journal of Geophysical Research-Biogeosciences*
-  - *Land Degradation & Development*
-  - *Frontiers in Plant Science*
-  - *Environmental Monitoring and Assessment*
-  - *Water Resources and Hydropower Engineering* (in Chinese)
-  - *Chinese Journal of Soil Science* (in Chinese)
-
-
 ## Memberships
 
-- **2025** — Student member, Chinese Society for Environmental Sciences
-- **2025** — Student member, Chinese Society of Natural Resources
-- **2025** — Student member, Chinese Hydraulic Engineering Society
-- **2024** — Student member, Ecological Society of Chinese
 - **2022** — Student member, Soil Science Society of Chinese
