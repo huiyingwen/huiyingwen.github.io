@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-**Global Wetland Ecohydrodynamics and Carbon Cycle**
+**Soil Organic Carbon Stabilization Process**
 
-*Ph.D. Candidate in Hydrodynamics, Nanjing Hydraulic Research Institute*  
-*Ecohydraulic · Wetland Carbon Cycle · Global Change Ecology*
+*PostDoc., Ph.D. in Soil Science, Institute of Soil Science, Chinese Academy of Sciences*  
+*Soil Geography · Biogeochemical cycle · Global Change*
 
-I am a **_Ph.D. candidate_** at the Center for Eco-Environmental Research, **_Nanjing Hydraulic Research Institute_** (CEER, NHRI) under the supervision of Prof. Dr. Qiuwen Chen. Currently, my research is conducted in the Ecohydraulics Research Department. I am dedicated to understanding the hydrothermal variation in large-scale wetland ecosystems, as well as their impacts on carbon cycling and feedbacks to climate change. We are actively pursuing international collaborations to contribute collectively to global carbon budget and climate change mitigation.
+I am a **_Postdoctoral fellow_** at the **_Institute of Soil Science, Chinese Academy of Sciences_** (ISSCAS). I received my Ph.D. from the University of Chinese Academy of Sciences (UCAS) in 2026 under the supervision of Prof. Dr. Gan-Lin Zhang. Currently, I am dedicated to understanding the hydrothermal variation in large-scale wetland ecosystems, as well as their impacts on carbon cycling and feedbacks to climate change. We are actively pursuing international collaborations to contribute collectively to global carbon budget and climate change mitigation.
 
 
 ## Research Interests
