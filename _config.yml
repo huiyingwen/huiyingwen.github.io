@@ -23,7 +23,7 @@ repository               : "huiyingwen/huiyingwen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zsun-profile.png"
+  avatar           : "hywen-profile.png"
   name             : "Huiying Wen 文慧颖"
   pronouns         : "she/her"  
   bio              : "Ph.D. in Soil Science<br>wenhuiying@issas.ac.cn"
