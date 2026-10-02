@@ -7,9 +7,9 @@ permalink: /education_academic/
 
 ## Education
 
-**Since 09/2024 |** Center for Eco-Environmental Research, **Nanjing Hydraulic Research Institute**
-- **Degree:** Ph.D. Candidate
-- **Advisor:** Prof. Dr. Qiuwen Chen
+**09/2022 – 07/2026 |** **Institute of Soil Science, Chinese Academy of Sciences**
+- **Degree:** Ph.D.
+- **Advisor:** Prof. Dr. Gan-Lin Zhang
 - **Major:** Hydrodynamics
 - **Field of Study:** Wetland ecohydrodynamics
 
