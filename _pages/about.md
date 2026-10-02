@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-**Soil Organic Carbon Stabilization Process**
+**Soil Organic Carbon Cycle and Stabilization Process**
 
 *PostDoc., Ph.D. in Soil Science, Institute of Soil Science, Chinese Academy of Sciences*  
-*Soil Geography · Biogeochemical cycle · Global Change*
+*Soil Geography · Soil Biogeochemical cycle · Global Change*
 
 I am a **_Postdoctoral fellow_** at the **_Institute of Soil Science, Chinese Academy of Sciences_** (ISSCAS). I received my Ph.D. from the University of Chinese Academy of Sciences (UCAS) in 2026 under the supervision of Prof. Dr. Gan-Lin Zhang. Currently, I am dedicated to understanding the hydrothermal variation in large-scale wetland ecosystems, as well as their impacts on carbon cycling and feedbacks to climate change. We are actively pursuing international collaborations to contribute collectively to global carbon budget and climate change mitigation.
 
