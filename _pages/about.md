@@ -64,8 +64,8 @@ My research may involve the intersection of the following disciplines:
   </div>
   <div style="flex: 1;">
     <b>Soil organic carbon content, stability and saturation in black soils of Northeast China</b><br>
-    <b>Wen, H.</b>, Yang, F., Miao, Z., et al. <i>Catena</i>, 2026. <a href="https://doi.org/10.1016/j.catena.2024.107993">DOI</a><br><br>
-    Developing a high-resolution black soil (BS) distribution map in China, serving as an important tool for assessing BS resources.<br>
+    <b>Wen, H.</b>, Yang, F., Miao, Z., et al. <i>Catena</i>, 2026. <a href="https://doi.org/10.1016/j.catena.2026.110576">DOI</a><br><br>
+   This study maps black-soil carbon fractions, stability, and saturation across Northeast China, revealing divergent depth drivers and opposing geographic trends to inform carbon-sequestration policy.<br>
   </div>
 </div>
 
@@ -74,9 +74,9 @@ My research may involve the intersection of the following disciplines:
     <img src="/images/HPpaper4-figure.jpg" alt="Paper 4 figure" style="width: 100%; border: 1px solid #ddd;">
   </div>
   <div style="flex: 1;">
-    <b>Improving 3D Digital Soil Mapping Based on Spatialized Lab Soil Spectral Information</b><br>
-    <b>Sun, Z.</b>, Liu, F., Wang, D, et al. <i>Remote Sensing</i>, 2023. <a href="https://doi.org/10.3390/rs15215228">DOI</a><br><br>
-    Developing a technical framework to enhance the accuracy of 3D soil physicochemical properties mapping by using spatialized lab soil spectral maps as covariates.<br>
+    <b>Magnitude and causes of three decades of subtropical soil acidification after land use change</b><br>
+    <b>Wen, H.</b>, Sun, Z., Wu, H.Y., et al. <i>Land Degradation & Development</i>, 2026. <a href="https://doi.org/10.1002/ldr.70243">DOI</a><br><br>
+    This study quantifies 30 years of soil acidification in subtropical China, showing how land-use change, parent material buffering, and nitrogen input jointly drive topsoil and subsoil pH declines.<br>
   </div>
 </div>
 
@@ -85,8 +85,8 @@ My research may involve the intersection of the following disciplines:
     <img src="/images/HPpaper5-figure.png" alt="Paper 5 figure" style="width: 100%; border: 1px solid #ddd;">
   </div>
   <div style="flex: 1;">
-    <b>敏感生态流量过程推求及调控研究进展与展望（A review on estimation and regulation of sensitive ecological flow processes）</b><br>
-    <b>Sun, Z.</b>, Feng, T., Niu, L., et al. <i>水利学报（Journal of Hydraulic Engineering）</i>, 2026. <a href="https://doi.org/10.3724/j.slxb.20250627">DOI</a><br><br>
-    Summarizing the evolution of ecological flow research and practice both domestically and internationally, proposing a framework for deriving sensitive ecological flow processes, reviewing representative case studies and their application outcomes, and discussing the spatiotemporal scale effects involved in the derivation process.<br>
+    <b>Differential soil acidification caused by parent materials and land-use changes in the Pearl River Delta region</b><br>
+    <b>Wen, H.</b>, Wu, H., Dong, Y., et al. <i>Soil Use and Management</i>, 2023. <a href="https://doi.org/10.1111/sum.12867">DOI</a><br><br>
+    Analyzing 15-year soil changes across land uses and parent materials in the Pearl River Delta, this study shows that converting paddy fields accelerates acidification, especially in granite-derived soils.<br>
   </div>
 </div>
