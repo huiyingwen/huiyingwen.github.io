@@ -41,9 +41,9 @@ My research may involve the intersection of the following disciplines:
     <img src="/images/HPpaper1-figure.jpg" alt="Paper 1 figure" style="width: 100%; border: 1px solid #ddd;">
   </div>
   <div style="flex: 1;">
-    <b>Enhanced soil carbon sequestration capacity is facilitated by vegetation water use efficiency on Earth's Third Pole</b><br>
-    <b>Sun, Z.</b>, Chen, C., Chen, Q., et al. <i>The Innovation Geoscience</i>, 2026. <a href="https://doi.org/10.59717/j.xinn-geo.2026.100181">DOI</a><br><br>
-    The spatiotemporal patterns of vegetation water use efficiency on the Qinghai-Tibet Plateau influence soil organic carbon sequestration levels.<br>
+    <b>Asymmetric responses of soil organic carbon stability to shifting dominance of pH-mediated metal-bound organic carbon</b><br>
+    <b>Wen, H.</b>, Yang, F., Sun, Z., et al. <i>Communications Earth & Environment</i>, 2025. <a href="https://doi.org/10.1038/s43247-025-02565-x">DOI</a><br><br>
+    Along a 1500-km climatic gradient, soil pH mediates an iron-to-calcium shift in metal-bound organic carbon dominance around pH 7.2–7.6, asymmetrically governing soil organic carbon stability.<br>
   </div>
 </div>
 
@@ -52,9 +52,9 @@ My research may involve the intersection of the following disciplines:
     <img src="/images/HPpaper2-figure.jpg" alt="Paper 2 figure" style="width: 100%; border: 1px solid #ddd;">
   </div>
   <div style="flex: 1;">
-    <b>Spatial distributions, driving factors, and threshold effects of soil organic carbon stocks in the Tibetan Plateau</b><br>
-    <b>Sun, Z.</b>, Liu, F., Yang, F., et al. <i>Soil & Tillage Research</i>, 2025. <a href="https://doi.org/10.1016/j.still.2025.106457">DOI</a><br><br>
-    Mapping the multi-layer soil organic carbon stocks on the Tibetan Plateau at 90 m resolution and revealing environmental controls.<br>
+    <b>Aridity regulates the vital drivers of soil organic carbon content in the Northeast China</b><br>
+    <b>Wen, H.</b>, Sun, Z., Yang, F., et al. <i>Catena</i>, 2025. <a href="https://doi.org/10.1016/j.catena.2025.109192">DOI</a><br><br>
+    Aridity thresholds nonlinearly regulate soil organic carbon and amplify the controlling role of exchangeable Ca2+ across a Northeast China aridity gradient.<br>
   </div>
 </div>
 
@@ -63,8 +63,8 @@ My research may involve the intersection of the following disciplines:
     <img src="/images/HPpaper3-figure.jpg" alt="Paper 3 figure" style="width: 100%; border: 1px solid #ddd;">
   </div>
   <div style="flex: 1;">
-    <b>Developing a national black soil map of China through machine learning classification</b><br>
-    <b>Sun, Z.</b>, Liu, F., Wu, H, et al. <i>CATENA</i>, 2024. <a href="https://doi.org/10.1016/j.catena.2024.107993">DOI</a><br><br>
+    <b>Soil organic carbon content, stability and saturation in black soils of Northeast China</b><br>
+    <b>Wen, H.</b>, Yang, F., Miao, Z., et al. <i>Catena</i>, 2026. <a href="https://doi.org/10.1016/j.catena.2024.107993">DOI</a><br><br>
     Developing a high-resolution black soil (BS) distribution map in China, serving as an important tool for assessing BS resources.<br>
   </div>
 </div>
