@@ -7,7 +7,7 @@ permalink: /publications/
 
 For a complete list of my publications, please visit my [ORCID profile](https://orcid.org/0000-0001-5729-1062).
 
-1. **Wen, H.**, Yang, F., Miao, Z., Gu, J., & Zhang, G.L. (2026) Soil organic carbon content, stability and saturation in black soils of Northeast China. _Catena_, 274, 110576. [DOI](https://doi.org/https://doi.org/10.1111/sum.12867)
+1. **Wen, H.**, Yang, F., Miao, Z., Gu, J., & Zhang, G.L. (2026) Soil organic carbon content, stability and saturation in black soils of Northeast China. _Catena_, 274, 110576. [DOI](https://doi.org/10.1016/j.catena.2026.110576)
 2. **Wen, H.Y.**, Sun, Z., Wu, H.Y., Hu, Y.M., & Zhang, G.L. (2026). Magnitude and causes of three decades of subtropical soil acidification after land use change. _Land Degradation & Development_, 37, 2255-2266. [DOI](https://doi.org/10.1002/ldr.70243)
 3. Hu, J., Huang, Z., Sun, Z., Song, X., Huang, Y., Zamanian, K., Tao, F., Yang, F., **Wen, H.**, & Zhang, G. (2026). Climate change leads to significant loss of soil inorganic carbon. _National Science Review_, 13(5), nwag075. [DOI](https://doi.org/10.1093/nsr/nwag075)
 4. Hu, J., Huang, Z., Song, X., Dong, Y., **Wen, H.**, Ding, S., & Zhang, G. (2026). Atmospheric acid deposition leads to increased soil inorganic carbon loss on the Qinghai-Tibetan Plateau. _Agriculture, Ecosystems & Environment_, 404, 110346. [DOI](https://doi.org/10.1016/j.agee.2026.110346)
