@@ -35,10 +35,9 @@ permalink: /education_academic/
 
 ## Awards / Distinctions / Fellowships
 
-- **2026** — The First Prize for Scientific and Technological Progress of Nanjing Hydraulic Research Institute
-- **2026** — Outstanding Students of the Ecohydraulics Research Department, Center for Eco-Environmental Research, Nanjing Hydraulic Research Institute
-- **2025** — CAST Young Scientific and Technological Talent Cultivation Program (Doctoral Track)
-- **2025** — Outstanding Students of the Center for Eco-Environmental Research, Nanjing Hydraulic Research Institute
+- **2024** — Outstanding Student of the University of Chinese Academy of Sciences
+- **2021** — Outstanding Student of the University of Chinese Academy of Sciences
+- **2019** — Outstanding Graduate of Huazhong Agricultural University
 
 
 ## Memberships
