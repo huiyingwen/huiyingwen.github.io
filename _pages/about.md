@@ -82,7 +82,7 @@ My research may involve the intersection of the following disciplines:
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2.5em;">
   <div style="flex: 0 0 220px; margin-right: 25px;">
-    <img src="/images/HPpaper5-figure.png" alt="Paper 5 figure" style="width: 100%; border: 1px solid #ddd;">
+    <img src="/images/HPpaper5-figure.jpg" alt="Paper 5 figure" style="width: 100%; border: 1px solid #ddd;">
   </div>
   <div style="flex: 1;">
     <b>Differential soil acidification caused by parent materials and land-use changes in the Pearl River Delta region</b><br>
