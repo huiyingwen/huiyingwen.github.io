@@ -17,7 +17,7 @@ I am a **_Postdoctoral fellow_** at the **_Institute of Soil Science, Chinese Ac
 
 ## Research Interests
 
-My research focuses on the **_Global Wetland Ecohydrodynamics_**, with a particular emphasis on the temporal and spatial dynamic patterns of hydrothermal variation resulting from seasonal climate changes and extreme hydrological meteorological events, as well as the impact of these external pressures on the carbon cycle of the wetland vegetation-hydrology-soil (sediment) system. To explore these processes, I combine satellite meteorological observations, field measurements, laboratory analyses, ecosystem models, and pedometric methods to understand wetland water-energy changes and carbon stability and storage potential feedback.
+My research focuses on the **_Soil Carbon Cycle_**, with a particular emphasis on the temporal and spatial dynamic patterns of hydrothermal variation resulting from seasonal climate changes and extreme hydrological meteorological events, as well as the impact of these external pressures on the carbon cycle of the wetland vegetation-hydrology-soil (sediment) system. To explore these processes, I combine satellite meteorological observations, field measurements, laboratory analyses, ecosystem models, and pedometric methods to understand wetland water-energy changes and carbon stability and storage potential feedback.
 
 My research may involve the intersection of the following disciplines:
 - **Global Change Ecology:** climate change, soil carbon cycle, extreme event, drought, heat wave, seasonal
