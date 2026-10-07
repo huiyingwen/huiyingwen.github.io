@@ -29,9 +29,7 @@ My research may involve the intersection of the following disciplines:
 
 ## Latest News
 
-- **_09/2026_** — Zheng Sun has been invited as a peer reviewer for _Frontiers in Plant Science_!
-- **_07/2026_** — Our paper entitled "A review on estimation and regulation of sensitive ecological flow processes" was accepted by _Journal of Hydraulic Engineering_!
-- **_07/2026_** — Zheng Sun has been received funding from the Postgraduate Research & Practice Innovation Program of Jiangsu Province!
+- Waiting for update!
 
 
 ## Selected Publications
